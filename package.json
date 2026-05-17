@@ -1,0 +1,14 @@
+{
+  "name": "simple-node-js",
+  "version": "1.0.0",
+  "description": "A simple Node.js template for quick scripting and development",
+  "main": "src/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js"
+  },
+  "keywords": ["node", "template", "simple", "boilerplate"],
+  "author": "ha1ron23",
+  "license": "MIT"
+}
