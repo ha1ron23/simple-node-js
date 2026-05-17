@@ -11,7 +11,7 @@ A clean and simple starter template for Node.js projects with ES Modules support
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com
+   git clone https://github.com/ha1ron23/simple-node-js.git
    cd simple-node-js
    ```
 
